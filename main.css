@@ -1,0 +1,10 @@
+.color-title{font-weight: normal}
+img{height:200px;width:200px }
+*{text-align: center}
+
+html {
+  background-color: #9b95f7;
+}
+
+
+#header {color:#9b95f7;background:#060050;border-radius:10px}
